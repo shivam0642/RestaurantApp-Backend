@@ -93,8 +93,8 @@ restaurant-app-backend
 **Installation & Setup**
 
 >>Clone the repository
--git clone https://github.com/your-username/restaurant-app-backend.git
--cd restaurant-app-backend
+-git clone https://github.com/shivam0642/RestaurantApp-Backend.git
+-cd RestaurantApp-Backend
 
 >>Install dependencies
 -npm install
